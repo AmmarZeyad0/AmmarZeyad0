@@ -1,7 +1,7 @@
-🚀 Aspiring Junior AWS Cloud Engineer.
-☁️ Actively building a portfolio of IaC (Terraform) and AWS Networking/Security projects.
-🛠️ Currently mastering VPC design, EC2, and S3 deployment best practices.
-🤝 Open to collaborating on infrastructure automation projects.
+- 🚀 Aspiring Junior AWS Cloud Engineer.
+- ☁️ Actively building a portfolio of IaC (Terraform) and AWS Networking/Security projects.
+- 🛠️ Currently mastering VPC design, EC2, and S3 deployment best practices.
+- 🤝 Open to collaborating on infrastructure automation projects.
  
 
 <!---
