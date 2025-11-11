@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AmmarZeyad0
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End 
-- 💞️ I’m looking to collaborate on projects with others
-- 📫 How to reach me via discord @ammarzeyad.
-- 😄 Pronouns: He
-- ⚡ Fun fact: Night Owl
+🚀 Aspiring Junior AWS Cloud Engineer.
+☁️ Actively building a portfolio of IaC (Terraform) and AWS Networking/Security projects.
+🛠️ Currently mastering VPC design, EC2, and S3 deployment best practices.
+🤝 Open to collaborating on infrastructure automation projects.
+ 
 
 <!---
 AmmarZeyad0/AmmarZeyad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
